@@ -1,2 +1,2 @@
-# Magical Rollin'
-An upcoming indie 2.5D Platformer game inspired by Shantae games. Formerly Rollin' Dream Star
+# Money Economic Precure'
+An fan-made Precure platformer game project I'm working on since I have saw a-lot of fan-made Precure things on the internet. Formerly Rollin’ Dream Girl and Magical Rollin'.
